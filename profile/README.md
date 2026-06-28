@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center"><img src="https://www.tunabellysoftware.com/resources/tgpro/TG-Pro-cooling-down-system.png" alt="TG Pro — temperature monitoring and fan control for macOS" width="780"/></p>
+<p align="center"><img src="https://www.tunabellysoftware.com/resources/tgpro/TG-Pro-cooling-down-Mac.png" alt="TG Pro — temperature monitoring and fan control for macOS" width="780"/></p>
 
 ---
 
